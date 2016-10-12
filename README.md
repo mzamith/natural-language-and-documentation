@@ -4,7 +4,7 @@
 Hi everyone.
 
 As you all know, we'll be making a presentation about Natural Language, as well as documentation applied to Requirements Engineering.
-He is some helpful information and useful documents.
+Here is some helpful information and useful documents.
 
 ## Natural Language Processing Tools.
 
